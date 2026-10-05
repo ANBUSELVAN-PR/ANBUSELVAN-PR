@@ -35,9 +35,9 @@ My interests span:
 
 ## 🎯 Engineering Interests
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚡ Hardware
 
@@ -49,11 +49,12 @@ My interests span:
 - 🔷 Digital Electronics
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 Software & Systems
 
 - 🐍 Python
+- ☕ Java
 - 💻 C / Embedded C
 - 🤖 AI & ML
 - 🌐 Web Development
